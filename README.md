@@ -42,9 +42,9 @@ Potentially used for summarizing large chunks of text, ensuring that users recei
 
 ## Installation
 ### Prerequisites
-Python 3.x
-Django
-Beautiful Soup
+Python 3.x, 
+Django, 
+Beautiful Soup, 
 Required API keys
 ### Setup Instructions
 #### 1) Clone the Repository:
