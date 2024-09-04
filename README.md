@@ -72,8 +72,5 @@ Upload documents to receive a summarized version.
 ## Contributions
 Contributions are welcome! Feel free to fork the project and submit a pull request. Please ensure your contributions are well-documented.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any inquiries or support, please reach out to pandeysamyak03@gmail.com.
