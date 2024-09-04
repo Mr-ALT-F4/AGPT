@@ -1,4 +1,4 @@
-# <u>News Summarization Web Application</u>
+# News Summarization Web Application
 
 ## Overview
 This project is a dynamic web application designed to provide users with up-to-date and relevant news summaries based on their chosen categories. The application leverages web scraping, APIs, and modern web technologies to ensure a seamless and engaging user experience. Users can select their preferred news categories, receive tailored news summaries via email, and even upload documents for summarized content generation.
@@ -49,16 +49,16 @@ Required API keys
 ### Setup Instructions
 #### 1) Clone the Repository:
 git clone https://github.com/yourusername/news-summarization-web-app.git
-### 2) Navigate to the Project Directory:
+#### 2) Navigate to the Project Directory:
 cd news-summarization-web-app
-### 3) Install Required Dependencies:
+#### 3) Install Required Dependencies:
 pip install -r requirements.txt
-### 4) Set Up API Keys:
+#### 4) Set Up API Keys:
 Obtain your API key from the News API provider.
 Update the settings.py file with your API key.
-### 5) Run the Server:
+#### 5) Run the Server:
 python manage.py runserver
-### 6) Access the Application:
+#### 6) Access the Application:
 Open your browser and navigate to http://127.0.0.1:8000/ to start using the application.
 
 ## Usage
@@ -73,7 +73,7 @@ Upload documents to receive a summarized version.
 Contributions are welcome! Feel free to fork the project and submit a pull request. Please ensure your contributions are well-documented.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or support, please reach out to pandeysamyak03@gmail.com.
